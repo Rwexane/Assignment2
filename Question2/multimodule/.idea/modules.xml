@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/monthlycommission/monthlycommission.iml" filepath="$PROJECT_DIR$/monthlycommission/monthlycommission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monthlysalary/monthlysalary.iml" filepath="$PROJECT_DIR$/monthlysalary/monthlysalary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multimodule.iml" filepath="$PROJECT_DIR$/multimodule.iml" />
+    </modules>
+  </component>
+</project>

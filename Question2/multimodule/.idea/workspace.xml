@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14b6ca5d-bdba-4e6d-934d-aefcb5ba976f" name="Default" comment="" />
+    <list default="true" id="3ac4dfc4-0197-4d76-9812-58846950f157" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/monthlycommission/target/" />
+    <ignored path="$PROJECT_DIR$/monthlysalary/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,39 +13,88 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
-  </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="48" lean-forward="false" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EmployeeDataTypes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/EmployeeDataTypes.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/multimdodule/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="40" lean-forward="false" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+              <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmployeeDataTypesTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/EmployeeDataTypesTest.java">
+      <file leaf-file-name="EmployeeImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/multimdodule/Impl/EmployeeImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="44" column="29" lean-forward="false" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+            <state relative-caret-position="102">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monthlysalary/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MonthlySal.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/monthlysalary/src/main/java/za/ac/cput/multimdodule/MonthlySal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monthlycommission/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Commission.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monthlycommission/src/main/java/za/ac/cput/multimdodule/Commission.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommissionTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monthlycommission/src/test/java/za/ac/cput/multimdodule/CommissionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommissionImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monthlycommission/src/main/java/za/ac/cput/multimdodule/Impl/CommissionImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="43" lean-forward="false" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,6 +106,7 @@
       <list>
         <option value="Class" />
         <option value="JUnit3 Test Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -66,10 +118,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Employee.java" />
-        <option value="$USER_HOME$/.m2/settings.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/EmployeeDataTypes.java" />
-        <option value="$PROJECT_DIR$/src/test/java/EmployeeDataTypesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/multimdodule/Employee.java" />
+        <option value="$PROJECT_DIR$/monthlycommission/pom.xml" />
+        <option value="$PROJECT_DIR$/monthlycommission/src/main/java/za/ac/cput/multimdodule/Commission.java" />
+        <option value="$PROJECT_DIR$/monthlycommission/src/main/java/za/ac/cput/multimdodule/Impl/CommissionImpl.java" />
+        <option value="$PROJECT_DIR$/monthlycommission/src/test/java/za/ac/cput/multimdodule/CommissionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/multimdodule/Impl/EmployeeImpl.java" />
+        <option value="$PROJECT_DIR$/monthlysalary/pom.xml" />
+        <option value="$PROJECT_DIR$/monthlysalary/src/main/java/za/ac/cput/multimdodule/MonthlySal.java" />
       </list>
     </option>
   </component>
@@ -79,14 +135,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="745" />
@@ -106,47 +155,56 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="junittesting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="junittesting" type="462c0819:PsiDirectoryNode" />
+              <item name="multimodule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multimodule" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="junittesting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="junittesting" type="462c0819:PsiDirectoryNode" />
+              <item name="multimodule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multimodule" type="462c0819:PsiDirectoryNode" />
+              <item name="monthlysalary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multimodule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multimodule" type="462c0819:PsiDirectoryNode" />
+              <item name="monthlysalary" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="junittesting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="junittesting" type="462c0819:PsiDirectoryNode" />
+              <item name="multimodule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multimodule" type="462c0819:PsiDirectoryNode" />
+              <item name="monthlysalary" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="junittesting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="junittesting" type="462c0819:PsiDirectoryNode" />
+              <item name="multimodule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multimodule" type="462c0819:PsiDirectoryNode" />
+              <item name="monthlysalary" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="junittesting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="junittesting" type="462c0819:PsiDirectoryNode" />
+              <item name="multimodule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multimodule" type="462c0819:PsiDirectoryNode" />
+              <item name="monthlysalary" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="junittesting" type="462c0819:PsiDirectoryNode" />
+              <item name="multimdodule" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,11 +212,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
-    <property name="last_opened_file_path" value="C:/School/Old Assignmens/Assessment2-master" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="" />
+      <recent name="za.ac.cput.multimdodule" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="junit.framework.TestCase" />
@@ -176,7 +233,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.EmployeeDataTypesTest">
+  <component name="RunManager" selected="JUnit.CommissionTest.testCommission">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -198,13 +255,18 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="EmployeeDataTypesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="junittesting" />
+    <configuration name="CommissionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.multimdodule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="monthlycommission" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EmployeeDataTypesTest" />
+      <option name="PACKAGE_NAME" value="za.ac.cput.multimdodule" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.multimdodule.CommissionTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -218,74 +280,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="EmployeeDataTypesTest.testException_timeout" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="junittesting" />
+    <configuration name="CommissionTest.testCommission" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.multimdodule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="monthlycommission" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EmployeeDataTypesTest" />
-      <option name="METHOD_NAME" value="testException_timeout" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="EmployeeDataTypesTest.testFailingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="junittesting" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EmployeeDataTypesTest" />
-      <option name="METHOD_NAME" value="testFailingTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="EmployeeDataTypesTest.testInterger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="junittesting" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EmployeeDataTypesTest" />
-      <option name="METHOD_NAME" value="testInterger" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="EmployeeDataTypesTest.testObjectIdentity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="junittesting" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EmployeeDataTypesTest" />
-      <option name="METHOD_NAME" value="testObjectIdentity" />
+      <option name="PACKAGE_NAME" value="za.ac.cput.multimdodule" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.multimdodule.CommissionTest" />
+      <option name="METHOD_NAME" value="testCommission" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -358,20 +365,14 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.EmployeeDataTypesTest.testObjectIdentity" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.EmployeeDataTypesTest.testException_timeout" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.EmployeeDataTypesTest.testFailingTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.EmployeeDataTypesTest.testInterger" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.EmployeeDataTypesTest" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.CommissionTest.testCommission" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.CommissionTest" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.EmployeeDataTypesTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.EmployeeDataTypesTest.testInterger" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.EmployeeDataTypesTest.testException_timeout" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.EmployeeDataTypesTest.testFailingTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.EmployeeDataTypesTest.testObjectIdentity" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.CommissionTest.testCommission" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CommissionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -383,80 +384,80 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="14b6ca5d-bdba-4e6d-934d-aefcb5ba976f" name="Default" comment="" />
-      <created>1519206843699</created>
+      <changelist id="3ac4dfc4-0197-4d76-9812-58846950f157" name="Default" comment="" />
+      <created>1519401543306</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1519206843699</updated>
-      <workItem from="1519206850865" duration="13527000" />
+      <updated>1519401543306</updated>
+      <workItem from="1519401550111" duration="5297000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EmployeeDataTypesTest - 2018.02.22 at 12h 24m 43s.xml">
-      <configuration name="EmployeeDataTypesTest" configurationId="JUnit" />
+    <history-entry file="CommissionTest - 2018.02.23 at 19h 11m 24s.xml">
+      <configuration name="CommissionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmployeeDataTypesTest - 2018.02.22 at 12h 30m 25s.xml">
-      <configuration name="EmployeeDataTypesTest" configurationId="JUnit" />
+    <history-entry file="CommissionTest_testCommission - 2018.02.23 at 19h 07m 27s.xml">
+      <configuration name="CommissionTest.testCommission" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmployeeDataTypesTest - 2018.02.22 at 18h 43m 09s.xml">
-      <configuration name="EmployeeDataTypesTest" configurationId="JUnit" />
+    <history-entry file="CommissionTest_testCommission - 2018.02.23 at 19h 09m 15s.xml">
+      <configuration name="CommissionTest.testCommission" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmployeeDataTypesTest - 2018.02.22 at 18h 45m 16s.xml">
-      <configuration name="EmployeeDataTypesTest" configurationId="JUnit" />
+    <history-entry file="CommissionTest_testCommission - 2018.02.23 at 19h 10m 09s.xml">
+      <configuration name="CommissionTest.testCommission" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmployeeDataTypesTest_testException_timeout - 2018.02.22 at 12h 25m 10s.xml">
-      <configuration name="EmployeeDataTypesTest.testException_timeout" configurationId="JUnit" />
+    <history-entry file="CommissionTest_testCommission - 2018.02.23 at 19h 12m 02s.xml">
+      <configuration name="CommissionTest.testCommission" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmployeeDataTypesTest_testException_timeout - 2018.02.22 at 12h 26m 50s.xml">
-      <configuration name="EmployeeDataTypesTest.testException_timeout" configurationId="JUnit" />
+    <history-entry file="CommissionTest_testCommission - 2018.02.23 at 19h 12m 54s.xml">
+      <configuration name="CommissionTest.testCommission" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmployeeDataTypesTest_testInterger - 2018.02.22 at 12h 23m 10s.xml">
-      <configuration name="EmployeeDataTypesTest.testInterger" configurationId="JUnit" />
+    <history-entry file="CommissionTest_testCommission - 2018.02.23 at 19h 13m 13s.xml">
+      <configuration name="CommissionTest.testCommission" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmployeeDataTypesTest_testInterger - 2018.02.22 at 18h 41m 08s.xml">
-      <configuration name="EmployeeDataTypesTest.testInterger" configurationId="JUnit" />
+    <history-entry file="CommissionTest_testCommission - 2018.02.23 at 19h 14m 39s.xml">
+      <configuration name="CommissionTest.testCommission" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmployeeDataTypesTest_testInterger - 2018.02.22 at 18h 41m 24s.xml">
-      <configuration name="EmployeeDataTypesTest.testInterger" configurationId="JUnit" />
+    <history-entry file="CommissionTest_testCommission - 2018.02.23 at 19h 16m 25s.xml">
+      <configuration name="CommissionTest.testCommission" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmployeeDataTypesTest_testInterger - 2018.02.22 at 18h 42m 55s.xml">
-      <configuration name="EmployeeDataTypesTest.testInterger" configurationId="JUnit" />
+    <history-entry file="CommissionTest_testCommission - 2018.02.23 at 19h 18m 14s.xml">
+      <configuration name="CommissionTest.testCommission" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13527000" />
+    <option name="totallyTimeSpent" value="5297000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-7" y="0" width="697" height="745" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861635" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35976505" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39937106" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -468,7 +469,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="1" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -481,37 +482,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.m2/settings.xml">
+    <entry file="file://$PROJECT_DIR$/monthlycommission/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Employee.java">
+    <entry file="file://$PROJECT_DIR$/monthlycommission/src/main/java/za/ac/cput/multimdodule/Commission.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="48" lean-forward="false" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        <state relative-caret-position="34">
+          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/EmployeeDataTypes.java">
+    <entry file="file://$PROJECT_DIR$/monthlycommission/src/main/java/za/ac/cput/multimdodule/Impl/CommissionImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="40" lean-forward="false" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        <state relative-caret-position="119">
+          <caret line="7" column="43" lean-forward="false" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/EmployeeDataTypesTest.java">
+    <entry file="file://$PROJECT_DIR$/monthlycommission/src/test/java/za/ac/cput/multimdodule/CommissionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="44" column="29" lean-forward="false" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+        <state relative-caret-position="374">
+          <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/multimdodule/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/multimdodule/Impl/EmployeeImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monthlysalary/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monthlysalary/src/main/java/za/ac/cput/multimdodule/MonthlySal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
