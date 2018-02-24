@@ -2,7 +2,10 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/companydevprojects" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/monthlycommission" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/monthlysalary" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/monthyltax" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test" charset="UTF-8" />
   </component>
 </project>

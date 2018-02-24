@@ -6,6 +6,7 @@ public interface Employee
 {
     double monthly_sal(double rate, double hrs, int weeks);
     double deductions(double sal);
-    double commission (double commi);
-    int modules (ArrayList<String> modules );
+    double commission (double com);
+    int devProjects (ArrayList<String> devProjects );
+
 }

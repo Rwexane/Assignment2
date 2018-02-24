@@ -2,17 +2,22 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
-      <profile name="Maven default annotation processors profile" enabled="true">
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="companydevprojects" />
         <module name="monthlycommission" />
         <module name="monthlysalary" />
+        <module name="monthyltax" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="companydevprojects" target="1.5" />
       <module name="monthlycommission" target="1.5" />
       <module name="monthlysalary" target="1.5" />
+      <module name="monthyltax" target="1.5" />
       <module name="multimodule" target="1.5" />
     </bytecodeTargetLevel>
   </component>
